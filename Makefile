@@ -1,4 +1,4 @@
 all:
-	gcc main.c
+	gcc reusable-workflow.yml
 check:
 	./a.out
