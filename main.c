@@ -1,10 +1,7 @@
 ﻿#include <stdio.h>
-void main()
-{
-printf("It has been changed");
-}
 
-void newFunction()
+int main()
 {
-	
+ printf("It has been changed");
+ return 0;
 }
